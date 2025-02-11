@@ -1,4 +1,7 @@
 body {
+    background: url(/src/imgs/bg-gym.jpg);
+    background-size: cover;
+    background-position: 10% 40%;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     display: flex;
